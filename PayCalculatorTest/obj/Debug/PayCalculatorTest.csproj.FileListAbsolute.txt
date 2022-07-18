@@ -1,0 +1,35 @@
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\PayCalculatorTest.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\PayCalculatorTest.pdb
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\OO programming.exe
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\CsvHelper.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Memory.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Numerics.Vectors.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Buffers.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\OO programming.pdb
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\OO programming.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\OO programming.exe.config
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\CsvHelper.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Memory.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Numerics.Vectors.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\bin\Debug\System.Buffers.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\obj\Debug\PayCalculatorTest.csproj.AssemblyReference.cache
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\obj\Debug\PayCalculatorTest.csproj.CoreCompileInputs.cache
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\obj\Debug\PayCalculatorTest.csproj.CopyComplete
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\obj\Debug\PayCalculatorTest.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\PayCalculatorTest\obj\Debug\PayCalculatorTest.pdb

@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OO programming</name>
+    </assembly>
+    <members>
+        <member name="F:OO_programming.Form1.EmployeeList">
+            <summary>
+            Form1 contains all the classes and their methods. Which is populated by reading the 
+            employee.csv file into a list of paySlip objects.
+            </summary>
+        </member>
+        <member name="M:OO_programming.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            Populates the payment summary taxt bo using the PaySlip and PayCalculator classes.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:OO_programming.Form1.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            This function saves the calculated payment data into a csv file.
+            </summary>
+            <param name="sender">The sender object</param>
+            <param name="e">Event Arguments</param>
+        </member>
+        <member name="F:OO_programming.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OO_programming.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OO_programming.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:OO_programming.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:OO_programming.Person.#ctor(System.String,System.String)">
+            <summary>
+            It is a constructor which initializes the fields of the person class
+            </summary>
+            <param name="fName">First Name to be initialized</param>
+            <param name="lName">Last Name to be initialized</param>
+        </member>
+        <member name="P:OO_programming.Person.fullName">
+            <summary>
+            Returnns First name and last name of a person as a string
+            </summary>
+            <return>First name Last name</return>
+        </member>
+        <member name="M:OO_programming.Person.getFirsName">
+            <summary>
+            This Methd Returns first name of a person
+            </summary>
+            <returns>First Name</returns>
+        </member>
+        <member name="M:OO_programming.Person.getLastName">
+            <summary>
+            This Methd Returns last name of a person
+            </summary>
+            <returns>Last Name</returns>
+        </member>
+        <member name="T:OO_programming.Employee">
+            <summary>
+            Employee class  inherits Person class, contains person and employee details
+            </summary>
+        </member>
+        <member name="M:OO_programming.Employee.#ctor(System.String,System.String,System.String,System.Double,System.String)">
+            <summary>
+            Employee constructor receives 5 arguments for initialization. 
+            </summary>
+            <param name="employeeId">Employee Id to be initialized</param>
+            <param name="firstName">First name of the employee to be initialized</param>
+            <param name="lastName">Last Name to be initialized</param>
+            <param name="hourlyRate">Hourly rate to be initialized</param>
+            <param name="taxThreshold">tax Threshold to be initialized</param>
+        </member>
+        <member name="P:OO_programming.Employee.getEmployeeDetail">
+            <summary>
+            Returns employee ID and full name of an employee as a string 
+            </summary>
+        </member>
+        <member name="M:OO_programming.Employee.isTaxFreeThresholdClaimed">
+            <summary>
+            Checks if an employee has claimed tax free threshold. 
+            </summary>
+            <returns>True if tax free threshold is claimed, false otherwise</returns>
+        </member>
+        <member name="M:OO_programming.Employee.getEmpId">
+            <summary>
+            Used to return the private data field of employee class 
+            </summary>
+            <returns>Employee ID of an employee</returns>
+        </member>
+        <member name="M:OO_programming.Employee.getHourlyRate">
+            <summary>
+            Used to return the private data field of employee class 
+            </summary>
+            <returns>Hourly rate of an employee</returns>
+        </member>
+        <member name="M:OO_programming.Employee.getTaxThreshold">
+            <summary>
+            Used to return the private data field of employee class 
+            </summary>
+            <returns>Tax threshold of an employee</returns>
+        </member>
+        <member name="T:OO_programming.PaySlip">
+            <summary>
+            Programmer Basir Sultani
+            Class a capture details accociated with an employee's pay slip record
+            </summary>
+        </member>
+        <member name="M:OO_programming.PaySlip.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            class constructor initializes the data field.
+            </summary>
+            <param name="hoursWorked">The total hours workded to be initialized</param>
+            <param name="grossPay">The gross pay to be initialized</param>
+            <param name="tax">Tax to be initialized</param>
+            <param name="netPay">Net pay to be initialized</param>
+            <param name="superannuation">Superannuation to be initialized</param>
+        </member>
+        <member name="T:OO_programming.PayCalculator">
+            <summary>
+            Base class to hold all Pay calculation functions
+            Default class behaviour is tax calculated with tax threshold applied
+            </summary>
+        </member>
+        <member name="T:OO_programming.PayCalculatorNoThreshold">
+            <summary>
+            Extends PayCalculator class handling No tax threshold
+            </summary>
+        </member>
+        <member name="T:OO_programming.PayCalculatorWithThreshold">
+            <summary>
+            Extends PayCalculator class handling With tax threshold
+            </summary>
+        </member>
+        <member name="T:OO_programming.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:OO_programming.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:OO_programming.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

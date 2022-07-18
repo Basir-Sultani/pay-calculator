@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85cbc1de-cbac-4ea0-a4b1-945ff318eeb2": {
+      "ProjectGuid": "85cbc1de-cbac-4ea0-a4b1-945ff318eeb2",
+      "DisplayName": "OO programming",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,29 @@
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\OO programming.exe.config
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\OO programming.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\OO programming.exe
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\OO programming.pdb
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\CsvHelper.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Buffers.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Memory.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Numerics.Vectors.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\CsvHelper.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Buffers.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Memory.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Numerics.Vectors.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\PayCalculatorApplication.csproj.AssemblyReference.cache
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\PayCalculatorApplication.csproj.SuggestedBindingRedirects.cache
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\OO_programming.Form1.resources
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\OO_programming.Properties.Resources.resources
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\PayCalculatorApplication.csproj.GenerateResource.cache
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\PayCalculatorApplication.csproj.CoreCompileInputs.cache
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\PayCalculatorApplication.csproj.CopyComplete
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\OO programming.exe
+D:\Certificate IV IT\OO P\ASMT\Cl_OOProgramming_AE_Pro_Appx\Part 3 application files\OO programming\obj\Debug\OO programming.pdb
